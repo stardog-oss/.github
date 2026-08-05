@@ -1,9 +1,9 @@
 # Stardog Open-Source
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://stardog-oss.github.io/kube-stardog-stack/stardog_open_source_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://stardog-oss.github.io/kube-stardog-stack/stardog_open_source_light.svg">
-  <img alt="Stardog Open Source" src="https://stardog-oss.github.io/kube-stardog-stack/stardog_open_source_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stardog-oss/.github/main/assets/stardog_open_source_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stardog-oss/.github/main/assets/stardog_open_source_light.svg">
+  <img alt="Stardog Open Source" src="https://raw.githubusercontent.com/stardog-oss/.github/main/assets/stardog_open_source_light.svg">
 </picture>
 
 Welcome to the Stardog Open-Source organization. This space hosts community-driven projects that help teams deploy and operate Stardog in modern infrastructure.
