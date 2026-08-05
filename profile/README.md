@@ -1,5 +1,3 @@
-# Stardog Open-Source
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stardog-oss/.github/main/assets/stardog_open_source_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stardog-oss/.github/main/assets/stardog_open_source_light.svg">
